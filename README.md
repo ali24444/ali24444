@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ali24444
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... AI, design
 - 🌱 I’m currently learning ... Artificial Intelligence with Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... apopo2001@gmail.com
