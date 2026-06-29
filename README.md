@@ -5,7 +5,7 @@
 - 📫 How to reach me ... apopo2001@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... Black is my favorite color.
-
+- /Users/april24/ -4.jpeg
 ali24444/ali24444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
