@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... apopo2001@gmail.com
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... Black is my favorite color.
+- ⚡ Fun fact: ... Black is my favorite color. 
 - <img width="736" height="736" alt=" -4" src="https://github.com/user-attachments/assets/afcf8064-d6b9-4870-9ef0-4dde37419bb8" />
 
 
